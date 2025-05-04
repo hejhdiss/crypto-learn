@@ -4,4 +4,4 @@ A guide for Indian crypto traders with links to top exchanges, learning resource
 
 ## 🚀 Live Website
 
-[Visit the website](YOUR_HOSTED_GITHUB_LINK)
+[Visit the website](https://hejhdiss.github.io/crypto-learn/)
